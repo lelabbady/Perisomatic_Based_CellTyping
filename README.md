@@ -8,7 +8,14 @@ For feature extraction pipelines, please look at the following repositories:
 
 ## Installation
 
-To run the tutorials provided in this repository please follow the installation instructions found at [MicronsBinder](https://github.com/AllenInstitute/MicronsBinder). The conda environment file has been provided here as well.
+To run the tutorials provided in this repository please follow the detailed installation instructions found at [MicronsBinder](https://github.com/AllenInstitute/MicronsBinder). The conda environment file has been provided here as well.
+
+Briefly, run the following:
+
+```
+conda env create -f environment.yml
+conda activate micronsbinder
+```
 
 ## Data Files
 
