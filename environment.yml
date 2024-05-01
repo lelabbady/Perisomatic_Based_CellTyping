@@ -35,3 +35,5 @@ dependencies:
       - tqdm
       - neuroglancer
       - caveclient
+      - skeleton-plot
+      - pcg_skel
